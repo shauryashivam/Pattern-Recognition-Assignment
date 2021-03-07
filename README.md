@@ -1,4 +1,5 @@
-# PR-Assignment-1
+# Pattern Recognition Assignment-1
+
 
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
