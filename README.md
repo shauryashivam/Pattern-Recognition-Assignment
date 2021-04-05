@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 
-1. Open code file in google colab.
+1. Open code file in Google Colab.
 2. Click on Change runtime tab and select GPU as hardware accelerator.
 3. Click on run all .
 
